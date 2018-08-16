@@ -1,10 +1,9 @@
 {
   "name": "ngx-select-controls",
-  "version": "0.0.34",
+  "version": "0.1.0",
   "description": "Advanced select, checkbox and radio controls.",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "private": true,
   "author": {
     "name": "Umed Khudoiberdiev",
     "email": "pleerock.me@gmail.com"

@@ -1,8 +1,11 @@
 {
-    "version": "1.8.0",
+    "version": "0.1.0",
     "compilerOptions": {
         "outDir": "build/es5",
-        "lib": ["es6", "dom"],
+        "lib": [
+            "es6",
+            "dom"
+        ],
         "target": "es5",
         "module": "commonjs",
         "moduleResolution": "node",
